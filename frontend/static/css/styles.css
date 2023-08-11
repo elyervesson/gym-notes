@@ -1,0 +1,40 @@
+header {
+  background: rgb(97, 165, 243);
+  padding: 10px;
+  border-bottom: 5px solid #212529;
+}
+
+.logo {
+  width: 60px;
+  position: absolute;
+  margin-left: -30px; /* Metade do tamanho da logo */
+  left: 50%;
+  top: 15px;
+}
+
+main {
+  background: rgb(200, 200, 200);
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.screen-tittle {
+  height: 70px;
+  padding: 20px;
+}
+
+.card-custom {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.btn-add-new {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+footer {
+  background: rgb(97, 165, 243);
+  height: 60px;
+  border-top: 5px solid #212529;
+}
